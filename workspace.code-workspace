@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/home/hammas/.local/share/virtualenvs/backend-2NUm3qN8/lib/python3.5/site-packages/rest_framework_jwt"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/home/hammas/.local/share/virtualenvs/backend-2NUm3qN8/bin/python"
+	}
+}
